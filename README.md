@@ -24,4 +24,4 @@ NTA Issued by USCIS: Obtained by Boston University through FOIA litigation, Dahl
 - Read Boston University's research on T Visas and how it intersects with NTAs.  
 - Created interactive charts with Datawrapper for the application of T Visas and NTAs issued.  
 - Developed scatter plots using ggplot in R to visualize victim demographics.  
-- Styled the website with custom CSS and HTML to enhance user experience.
+- Styled the website with custom CSS and HTML to enhance user experience with the help of ChatGPT (view conversation [here](https://chatgpt.com/share/67bb94b7-2c78-8013-8040-e912adad7880))
