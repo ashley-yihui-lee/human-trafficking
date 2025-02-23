@@ -1,5 +1,5 @@
 # From American Dreams to Nightmares: Human Trafficking Survivors' Fight for T Visas  
-View the full project [here]([https://ashley-yihui-lee.github.io/](https://ashley-yihui-lee.github.io/human-trafficking/).
+View the full project [here]([https://ashley-yihui-lee.github.io/](https://ashley-yihui-lee.github.io/human-trafficking/)).
 
 ## 📊 About the Project  
 This project explores the complex journey of human trafficking survivors, with a specific focus on the challenges they face in securing T Visas in the United States. The T Visa is a nonimmigrant status that allows victims of human trafficking to remain in the U.S. and rebuild their lives. However, the application process is arduous and restrictive, leaving many survivors without the protection they need.
