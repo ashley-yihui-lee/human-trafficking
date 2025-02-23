@@ -6,8 +6,8 @@ set.seed(42)  # Ensures reproducibility
 
 # Create a dataframe with 16,000 random points
 df <- data.frame(
-  x = runif(16000, min = 0, max = 100),  # Spread across the full area
-  y = runif(16000, min = 0, max = 100)
+  x = runif(16554, min = 0, max = 100),  # Spread across the full area
+  y = runif(16554, min = 0, max = 100)
 )
 
 # Assign a default color to all dots
@@ -24,4 +24,4 @@ ggplot(df, aes(x, y, color = group)) +
   theme(legend.position = "none")  # Hide legend
 
 
-ggsave("all.png", width = 1000 / 100, height = 600 / 100, dpi = 300)
+ggsave("image1.png", width = 1000 / 100, height = 600 / 100, dpi = 300)

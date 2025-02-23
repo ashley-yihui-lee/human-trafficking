@@ -6,8 +6,8 @@ set.seed(42)  # Ensures reproducibility
 
 # Create a dataframe with 16,000 random points
 df <- data.frame(
-  x = runif(16000, min = 0, max = 100),  # Spread across the full area
-  y = runif(16000, min = 0, max = 100)
+  x = runif(16554, min = 0, max = 100),  # Spread across the full area
+  y = runif(16554, min = 0, max = 100)
 )
 
 # Assign a default color to all dots
@@ -17,7 +17,7 @@ df$group <- "gray"
 df$distance <- sqrt(df$x^2 + df$y^2)  # Euclidean distance from (0,0)
 
 # Select the 6,000 closest points
-corner_selected <- order(df$distance)[1:6758]  # Smallest distances first
+corner_selected <- order(df$distance)[1:10690]  # Smallest distances first
 
 # Change their color
 df$group[corner_selected] <- "#F9813A"
@@ -30,4 +30,4 @@ ggplot(df, aes(x, y, color = group)) +
   theme(legend.position = "none")  # Hide legend
 
 
-ggsave("women.png", width = 1000 / 100, height = 600 / 100, dpi = 300)
+ggsave("image2.png", width = 1000 / 100, height = 600 / 100, dpi = 300)
