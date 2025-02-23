@@ -13,8 +13,15 @@ Demographics of the victims:
 The application of T Visas and NTAs issued:  
 Created with Datawrapper.
 
-## 📚 Data Sources  
+## 📚 About Data Sources  
 National Human Trafficking Hotline: This data, sourced from the hotline, tracks the number of human trafficking cases reported and identifies key demographics of the victims. The numbers used are from [Polaris Analysis of 2021 Data from the National Human Trafficking Hotline](https://polarisproject.org/resources/us-national-human-trafficking-hotline-statistics/).  
 USCIS T Visa Data: Information on T Visa approvals, denials, and the criteria for receiving a T Visa. Published [here](https://www.uscis.gov/sites/default/files/document/fact-sheets/Characteristics_of_T_Nonimmigrant_Status_TVisa_Applicants_FactSheet_FY08_FY22.pdf).  
 NTA Issued by USCIS: Obtained by Boston University through FOIA litigation, Dahlstrom v. DHS. Published [here](https://www.bu.edu/law/experiential-learning/clinics/immigrants-rights-human-trafficking-clinic/foia-litigation/data-about-the-t-visa-program/).
 
+## 🛠 Work Done  
+- Read reports from the National Human Trafficking Hotline and Polaris to understand victim demographics and T Visa data.  
+- Interviewed Jean Stockdale, Program Director at Still Waters, to learn more about T Visas.  
+- Read Boston University's research on T Visas and how it intersects with NTAs.  
+- Created interactive charts with Datawrapper for the application of T Visas and NTAs issued.  
+- Developed scatter plots using ggplot in R to visualize victim demographics.  
+- Styled the website with custom CSS and HTML to enhance user experience.
